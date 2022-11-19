@@ -115,9 +115,9 @@ System.out.println("Static method");
 
 ### final
 
-:point_right: emoji
 
 
-<!-- url -->
-[markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "more  about markdown")
+
+<!-- emoji and url -->
+:point_right:  [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "more  about markdown")
 
