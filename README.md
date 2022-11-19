@@ -86,13 +86,18 @@ System.out.println("Static method");
 <!-- GitHub Markdown-->
 <!-- TO DO-->
 * [x] task 1
-* [] task 2
-* [] task 3
+* [ ] task 2
+* [ ] task 3
 * [x] task 4
 
-<!-- emoji-->
+<!-- github emoji-->
 :point_right: emoji
 :clap: 	:see_no_evil: :hear_no_evil:
+
+:+1:
+
+<!-- mencionar otro usuario  -->
+@feridrobo
 
 <!-- table -->
 
