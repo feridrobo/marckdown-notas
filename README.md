@@ -113,6 +113,23 @@ System.out.println("Static method");
 
 ![github](github.png "github")
 
+
+<!-- Estilo de texto-->
+<font face = "Microsoft Yahei"> Ingrese el texto aquí </font>
+
+<!-- Estilo de texto-->
+<font size = 5> Ingrese el texto aquí </font>
+
+<!-- Estilo de texto-->
+<font color = #1E90FF> Ingrese el texto aquí </font>
+
+<!-- Estilo de texto-->
+<font color = gray> Ingrese el texto aquí </font>
+
+<!-- Estilo de texto-->
+<font face = "Microsoft Yahei" size = 5 color = #FF0000> Ingrese el texto aquí </font>
+
+
 ### final
 
 
