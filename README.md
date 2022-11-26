@@ -121,12 +121,15 @@ System.out.println("Static method");
 <font size = 5> Ingrese el texto aquí </font>
 
 <!-- Estilo de texto-->
+<!-- El color del texto no cambia en el readme de GitHub-->
 <font color = #1E90FF> Ingrese el texto aquí </font>
 
 <!-- Estilo de texto-->
+<!-- El color del texto no cambia en el readme de GitHub-->
 <font color = gray> Ingrese el texto aquí </font>
 
 <!-- Estilo de texto-->
+<!-- El color del texto no cambia en el readme de GitHub-->
 <font face = "Microsoft Yahei" size = 5 color = #FF0000> Ingrese el texto aquí </font>
 
 
